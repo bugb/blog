@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return c}));var o=t("q1tI"),u=t.n(o);function c(){return u.a.createElement("div",null,"Welcome to Bugb's personal website!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-62d95176cfde5e3eadf3.js.map

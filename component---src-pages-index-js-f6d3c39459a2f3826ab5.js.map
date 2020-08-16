@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Home"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-f6d3c39459a2f3826ab5.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>Welcome to Bugb's personal website</div>\n}\n"],"sourceRoot":""}
