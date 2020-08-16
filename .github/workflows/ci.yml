@@ -26,6 +26,8 @@ jobs:
 
       - run: npm i --production
       - run: npm run build
+      - run: ls 
+      - run: echo www.devt.net > public/CNAME 
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
